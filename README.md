@@ -10,3 +10,14 @@
 ![Screenshot from 2022-04-18 21-14-30](https://user-images.githubusercontent.com/76835313/163806889-fdf79bf2-1335-4fbf-a5b4-b12e6aaf227f.png)
 ![4](https://user-images.githubusercontent.com/76835313/163807012-0cf83615-caae-4e61-b1fe-1e8040e12a3d.png)
 ![image](https://user-images.githubusercontent.com/76835313/163809663-dcfeff80-2583-4be4-acf1-5ff90aace782.png)
+
+* 이수안 추천시스템
+* 콘텐츠 기반 필터링은 지금까지 사용자의 이전 행동과 명시적 피드백을 통해 상ㅇ자가 좋아하는 것과 유사한 항목을 추천 
+* 협업 필터링은 사용자와 항목간의 유사성을 동시에 사용해 추천 
+
+* 코사인 유사도를 사용해 추천
+
+\begin{equation}
+cos \theta = \frac{A \cdot B}{||A|| \times ||B||}
+\end{equation}
+* 두 벡터가 이루고 있는 각을 계산
