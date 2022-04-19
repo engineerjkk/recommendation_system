@@ -57,4 +57,10 @@
 # Hybrid
 ![Screenshot from 2022-04-19 16-50-25](https://user-images.githubusercontent.com/76835313/163953065-0aeff8b6-4ac2-4dcd-bb0f-598cbc2aff1d.png)
 
+# fix
+![Screenshot from 2022-04-19 18-01-23](https://user-images.githubusercontent.com/76835313/163969515-c168d198-7527-43e1-9f93-9c0d92bfe9fc.png)
+![Screenshot from 2022-04-19 18-02-57](https://user-images.githubusercontent.com/76835313/163969522-9c8ed2c8-79b7-4e73-bc67-e6d0d7eb34e3.png)
+
+
+
 
