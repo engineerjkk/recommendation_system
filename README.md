@@ -51,6 +51,10 @@
 ![Screenshot from 2022-04-19 12-30-11](https://user-images.githubusercontent.com/76835313/163914588-5c810305-204b-44a7-85cf-9fa84624d249.png)
 ![Screenshot from 2022-04-19 12-30-23](https://user-images.githubusercontent.com/76835313/163914593-9a566884-6c3a-4d95-8992-ee203a3c74c3.png)
 
+# GNN
+![Screenshot from 2022-04-19 16-47-18](https://user-images.githubusercontent.com/76835313/163952585-f3cb7017-3f78-43c9-a466-677087561aa7.png)
 
+# Hybrid
+![Screenshot from 2022-04-19 16-50-25](https://user-images.githubusercontent.com/76835313/163953065-0aeff8b6-4ac2-4dcd-bb0f-598cbc2aff1d.png)
 
 
